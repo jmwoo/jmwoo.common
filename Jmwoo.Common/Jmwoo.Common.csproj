@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>jmwoo</Authors>
-    <Description>base c# functionality</Description>
+    <Description>common c# functionality</Description>
   </PropertyGroup>
 
   <ItemGroup>
